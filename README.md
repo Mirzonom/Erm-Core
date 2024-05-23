@@ -5,6 +5,8 @@
 This project is an API for managing enterprise risks (ERM). It provides endpoints for creating and retrieving risk
 profiles and migrating risk data to persistent storage.
 
+![image](readme-files/swagger-screen.png)
+
 ## Usage
 
 ### Endpoints
